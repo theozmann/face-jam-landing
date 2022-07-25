@@ -3,4 +3,4 @@
 Hello!
 
 This is just a simple landing page dedicated to the FaceJam podcast. 
-I'm using this project to solidify some foundation html and css skills.
+I'm using this project to solidify some foundational html and css skills.

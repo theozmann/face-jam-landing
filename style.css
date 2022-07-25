@@ -203,3 +203,7 @@ ul {
     align-items: center;
     height: 100%;
 }
+
+.footer .container a {
+    color: #eee;
+}

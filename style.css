@@ -136,7 +136,7 @@ ul {
 }
 
 .boxes .box {
-    width: 200px;
+    flex-basis: 200px;
 }
 
 .boxes .box img {
